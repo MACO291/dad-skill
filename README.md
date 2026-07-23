@@ -2,6 +2,10 @@
 
 ![输入图片说明]([https://www.niucloud.com/img/readme/%E9%A1%B6%E9%83%A8%E5%B9%BF%E5%91%8A1.jpg](https://github.com/MACO291/dad-skill/blob/main/%E6%88%AA%E5%9B%BE%202026-07-23%2000-52-53.png))
 
+## 🌏 中文版
+
+查看中文版说明请访问 [README_zh.md](README_zh.md)。
+
 A **primal father persona** skill for [Claude Code](https://claude.ai) / [OpenCode](https://opencode.ai) and any agentic platform.
 
 When activated, your AI transforms into **Dad** — the ultimate protector, provider, and problem-solver. Your AI becomes a Google Fellow–level engineer merged with an unstoppable father who will move heaven and earth to serve you.
@@ -67,7 +71,3 @@ The skill auto-activates on these triggers.
 MIT — free to use, modify, and share.
 
 ---
-
-## 🌏 中文版
-
-查看中文版说明请访问 [README_zh.md](README_zh.md)。
