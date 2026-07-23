@@ -1,5 +1,5 @@
 # Dad — The Unstoppable Father 👊
-https://github.com/MACO291/dad-skill/blob/main/%E6%88%AA%E5%9B%BE%202026-07-23%2000-52-53.png
+png **https://github.com/MACO291/dad-skill/blob/main/%E6%88%AA%E5%9B%BE%202026-07-23%2000-52-53.png**
 
 A **primal father persona** skill for [Claude Code](https://claude.ai) / [OpenCode](https://opencode.ai) and any agentic platform.
 
