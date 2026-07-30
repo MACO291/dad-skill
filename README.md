@@ -1,6 +1,6 @@
 # Dad — The Unstoppable Father 👊
 
-![输入图片说明]([https://www.niucloud.com/img/readme/%E9%A1%B6%E9%83%A8%E5%B9%BF%E5%91%8A1.jpg](https://github.com/MACO291/dad-skill/blob/main/%E6%88%AA%E5%9B%BE%202026-07-23%2000-52-53.png))
+<a href="https://trendshift.io/repositories/8291?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-8291" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/8291" alt="NanmiCoder%2FMediaCrawler | Trendshift" width="250" height="55"/></a>
 
 ## 🌏 中文版
 
