@@ -1,6 +1,8 @@
 # Dad — The Unstoppable Father 👊
 
-<a href="https://trendshift.io/repositories/8291?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-8291" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/8291" alt="NanmiCoder%2FMediaCrawler | Trendshift" width="250" height="55"/></a><a href="https://trendshift.io/repositories/8291?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-8291" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/8291/daily?language=Python" alt="NanmiCoder%2FMediaCrawler | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/8291?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-8291" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/8291" alt="NanmiCoder%2FMediaCrawler | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/8291?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-8291" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/8291/daily?language=Python" alt="NanmiCoder%2FMediaCrawler | Trendshift" width="250" height="55"/></a>
+
 [![GitHub Stars](https://img.shields.io/github/stars/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/NanmiCoder/MediaCrawler?style=social)](https://github.com/NanmiCoder/MediaCrawler/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/NanmiCoder/MediaCrawler)](https://github.com/NanmiCoder/MediaCrawler/issues)
